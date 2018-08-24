@@ -6620,9 +6620,9 @@ tarojs-aliapp-s4s@^1.0.0-beta.11:
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
-tarojs-cli-s4s@^1.0.0-beta.17:
-  version "1.0.0-beta.17"
-  resolved "http://registry.npm.taobao.org/tarojs-cli-s4s/download/tarojs-cli-s4s-1.0.0-beta.17.tgz#e67116e856bfc1ebed72a8a7c5bd6c43ebfb86dc"
+tarojs-cli-s4s@^1.0.0-beta.19:
+  version "1.0.0-beta.19"
+  resolved "https://registry.yarnpkg.com/tarojs-cli-s4s/-/tarojs-cli-s4s-1.0.0-beta.19.tgz#8a49b0daa9d6abfef75341c7a3ca14c8e324d20c"
   dependencies:
     "@tarojs/transformer-wx" "1.0.0-beta.10"
     autoprefixer "^8.4.1"
@@ -6654,14 +6654,14 @@ tarojs-cli-s4s@^1.0.0-beta.17:
     resolve "^1.6.0"
     semver "^5.5.0"
     shelljs "^0.8.1"
-    tarojs-transformer-ali-s4s "1.0.0-beta.11"
+    tarojs-transformer-ali-s4s "1.0.0-beta.13"
     through2 "^2.0.3"
     vinyl "^2.1.0"
     vinyl-fs "^3.0.2"
 
-tarojs-transformer-ali-s4s@1.0.0-beta.11:
-  version "1.0.0-beta.11"
-  resolved "http://registry.npm.taobao.org/tarojs-transformer-ali-s4s/download/tarojs-transformer-ali-s4s-1.0.0-beta.11.tgz#14723170f68c578fbca9dff2e55341d84c116924"
+tarojs-transformer-ali-s4s@1.0.0-beta.13:
+  version "1.0.0-beta.13"
+  resolved "https://registry.yarnpkg.com/tarojs-transformer-ali-s4s/-/tarojs-transformer-ali-s4s-1.0.0-beta.13.tgz#18afee7443e85048d38cd7dab46b56786e4b9068"
   dependencies:
     "@babel/code-frame" "^7.0.0-beta.44"
     babel-core "^6.26.3"

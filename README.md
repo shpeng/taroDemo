@@ -14,3 +14,11 @@ $ npm run build:aliapp
 ```
 $ npm run build:aliapp -- --watch
 ```
+
+## bugs
+<font color=#DC143C>TypeError: _index2.default.initPxTransform is not a function</font>
+taro-weapp/dist/index 编译不完整，没有打包 initPxTransform
+可以尝试重新打包：
+```
+$ ./node_modules/.bin/rollup -c packages/taro-weapp/rollup.config.js
+```
